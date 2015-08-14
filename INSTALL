@@ -1,0 +1,9 @@
+Building ParanoiaCoin
+
+See doc/readme-qt.rst for instructions on building ParanoiaCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ParanoiaCoin.
+
+See doc/build-*.txt for instructions on building ParanoiaCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ParanoiaCoin.
